@@ -21,3 +21,4 @@ h3 { font-size: 16px; margin: 20px 0 4px; }
 .links { margin-top: 32px; }
 .links a, .hero a { color: var(--accent); }
 a { color: var(--accent); }
+.store { display:inline-block; padding:8px 18px; border-radius:999px; background:var(--accent); color:#fff !important; text-decoration:none; font-weight:600; margin-right:6px; }
